@@ -1,1 +1,1 @@
-Print current working directory path name
+Testing scripts with the chmod command
